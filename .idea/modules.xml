@@ -9,7 +9,15 @@
       <module fileurl="file://$PROJECT_DIR$/day05-oop-demo/day05-oop-demo.iml" filepath="$PROJECT_DIR$/day05-oop-demo/day05-oop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-oop-demo/day06-oop-demo.iml" filepath="$PROJECT_DIR$/day06-oop-demo/day06-oop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-oop-demo/day07-oop-demo.iml" filepath="$PROJECT_DIR$/day07-oop-demo/day07-oop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-io-app/file-io-app.iml" filepath="$PROJECT_DIR$/file-io-app/file-io-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-io-app02/file-io-app02.iml" filepath="$PROJECT_DIR$/file-io-app02/file-io-app02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javasepro-test-wangxu/javasepro-test-wangxu.iml" filepath="$PROJECT_DIR$/javasepro-test-wangxu/javasepro-test-wangxu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-reflect-annotation-proxy-app/junit-reflect-annotation-proxy-app.iml" filepath="$PROJECT_DIR$/junit-reflect-annotation-proxy-app/junit-reflect-annotation-proxy-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_text_wx/my_text_wx.iml" filepath="$PROJECT_DIR$/my_text_wx/my_text_wx.iml" />
       <module fileurl="file://$PROJECT_DIR$/myjavasepromax.iml" filepath="$PROJECT_DIR$/myjavasepromax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net-app/net-app.iml" filepath="$PROJECT_DIR$/net-app/net-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/properties-xml-log-app/properties-xml-log-app.iml" filepath="$PROJECT_DIR$/properties-xml-log-app/properties-xml-log-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-app/thread-app.iml" filepath="$PROJECT_DIR$/thread-app/thread-app.iml" />
     </modules>
   </component>
 </project>

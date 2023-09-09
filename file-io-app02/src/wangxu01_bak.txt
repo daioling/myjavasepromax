@@ -1,0 +1,15 @@
+        // 使用循环优化
+        int len; // 记住每次读取多少个字节
+        while ((len = is.read(buffer)) != -1){
+            String s = new String(buffer, 0, len);
+            System.out.println(s);
+                    // 使用循环优化
+            asda        int len; // 记住每次读取多少个字节
+                    while ((len = is.read(buffer)) != -1){
+                        String s = new String(buffer, 0, len);
+                        System.out.println(s);
+               sadac                 // 使用循环优化
+                                int len; // 记住每次读取多少个字节
+              xasdaf                  while ((len = is.read(buffer)) != -1){
+                                    String s = new String(buffer, 0, len);
+                                    System.out.println(s);

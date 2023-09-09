@@ -7,7 +7,7 @@ import java.util.List;
 // ArrayList 集合的底层是基于数组存储数据。 查询快，增删慢！（相对的）
 public class ListDemo01 {
     public static void main(String[] args) {
-        // 1.船舰ArrayList集合对象：
+        // 1.创建ArrayList集合对象：
         // List ： 有序，可重复，有索引的。
         List<String> list = new ArrayList<>();
         list.add("Java");
